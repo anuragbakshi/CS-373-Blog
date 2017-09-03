@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Week of 28 Aug - 3 Sep"
+date:   2017-09-02 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What are your expectations of the class?
+I'm expecting to learn about several different technologies used in a typical software engineering workflow. While on small personal projects, it's usually enough to do build everything manually and host it on my laptop for development, in industry, knowing how to use tools like GCP, Docker, and Travis CI is essential. I'm hoping to become more familiar with these tools, and also learn to pick up new technologies in the future.
+
+# What did you do this past week?
+I moved in back to my apartment and caught up with friends I hadn't seen all summer. I started applying to companies for internships next summer and getting adjusted to college life again. This week was relatively low stress since we mostly reviewed course expectations and syllabi. To celebrate returning to Texas after the summer, I went to City Market in Luling with some friends to stuff myself with BBQ.
+
+# What's in your way?
+Trying to get into the classes I wanted was the main thing on my mind this week since one of my classes was cancelled. My schedule for this semester is finally coming together. Getting used to having homework again is going to be tough - I'm already starting to get lazy.
+
+# What will you do next week?
+I'll keep doing projects and homework, and hopefully find good teammates for some of my classes. I'm really looking forward to going to different coffee shops again and on late night ice cream runs.
+
+# What's my experience of the class?
+It's hard to say since it's only just started, but I like the interactive style of lectures. I think asking students questions scattered throughout the lecture helps keep me engaged.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[Jupyter](http://jupyter.org/) is an application similar to Mathematica, but for Python, that allows you to create interactive notebooks. You can write and execute code in line with graphs, text, and even interactive widgets. It's really great for any kind of data oriented or visual document. Check it out!
