@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 4 Sep - 10 Sep"
+date:   2017-09-09 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+This week, my schedule finally came together and I'm happy with the classes I got. I also heard back from a few companies and started scheduling interviews. I'm trying to line up my onsites with my friends so that we explore a new city for a weekend. I started working on Collatz, which is taking longer than I expected. Although the program itself is not difficult, the entire workflow is very time consuming.
+
+# What's in your way?
+Trying to fit interviews in between classes, all while planning around other obligations is my biggest problem this week. I'm trying to set aside time for each class since all the due dates for projects are clustered together. If I leave everything to the last minute, I probably won't have a good time.
+
+# What will you do next week?
+Next week, I should be settled into the rhythm of classes and weekly deadlines. I'll keep working on Collatz since I will need some extra time to get used to the workflow and tools. Hopefully, I'll go on a few trips around Austin with my roommates and maybe see a movie. Other than that, I'll keep preparing for interviews and get ready for career fair.
+
+# What's my experience of the class?
+While I really like the lectures, the workflow seems somewhat tedious to follow. This is most likely only a problem with the first project since it's hard to list 15 issues on such a small assignment. Otherwise, I'm excited to get assigned a group and start working on the main website project.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[Reddit](https://www.reddit.com/) is a website that aggregates content from all over the internet into a single place. It'll drain every ounce of productivity from your day, but it's completely worth it!
