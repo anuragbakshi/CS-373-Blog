@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 11 Sep - 17 Sep"
+date:   2017-09-16 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+I spent most of Wednesday finishing up Collatz and worked on assignments for my other classes the rest of the week. Career fair finally came around, but I didn't really want to go --- so instead I stayed home and binged TV shows. I also had my first phone interview of the semester. I took it at my friend's apartment since I get better reception there, but I forgot my own keys and got locked out of my apartment. I didn't bother changing since this was right after I got out of bed, so I had to wait in the hallway in my PJs for 20 minutes until my roommate saved me. As always, this week was filled with almost daily coffee trips, and even a visit to Austin Pets Alive to pet kittens. This semester is definitely off to a good start.
+
+# What's in your way?
+Not much right now. All of my classes are going smoothly and I'm excited to fly out to onsites so I can spend a weekend in some other city.
+
+# What will you do next week?
+Probably more interviews and more assignments. I might try to cook more at home instead of just relying on frozen dumplings and rice.
+
+# What's my experience of the class?
+This past week of class has not been very engaging since we are just going details of Python. It seems like this material would be better covered in the 1-hour Python language class.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[LMGTFY](https://lmgtfy.com/) is a website that lets you show people how to use Google to find information on the internet. This site is great for when your friend asks you "How do I add 2 numbers in Python?".
