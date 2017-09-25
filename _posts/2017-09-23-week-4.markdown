@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 18 Sep - 24 Sep"
+date:   2017-09-23 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+Aside from the usual homework and projects, I visited my parents for the weekend. Saturday was an especially clear night and it was almost a new moon, so a friend and I drove away from the city --- about 50 miles north of campus along US 183 --- to the middle of some farmland to stargaze. It was pitch black and completely silent at 2am, except for the chirping of crickets, that far away from any towns. We only saw a couple of other cars in the hour that we were there. Being away from all the light pollution of Austin lets you see a vast number of stars, so much so, that we could even see the faint outline of the Milky Way. It was truly an amazing sight.
+
+# What's in your way?
+I have a couple exams coming up this week, and I probably won't have time to study next weekend so my main concern is putting aside enough time to make sure I'm prepared. A lot of the material we've covered in my other classes is completely new to me, so I'll have to review all of it again this week.
+
+# What will you do next week?
+I'm flying out to Seattle next weekend so I'm very excited for that. Otherwise, my main focus will be working on IDB and getting used to working in a group.
+
+# What's my experience of the class?
+Now that we finally have our project groups, I'm looking forward to working with my team members. It will be interesting to see how we can take advantage of each of our individual strengths to build this website.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[repl.it](https://repl.it/) lets you run a small bit of code in your browser. They support lots of different languages like Python, C++, and Java. It's really convenient if you want so test a bit of code without making a new file and compiling it (especially for C++).
