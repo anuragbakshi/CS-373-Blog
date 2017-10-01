@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 25 Sep - 1 Oct"
+date:   2017-09-30 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+This week, I had an interview in Seattle so I decided to spend the weekend there so I could explore. On Saturday, I went to Mt. Rainier National Park since there were no fees for national parks that day. We started hiking on the trail to the Mt. Fremont fire lookout, and by the time we got there, it started to snow very quickly. The trip back felt like we were in the arctic, with snow and ice blowing against our faces. By the time we got back to the trailhead, the entire landscape was completely covered in about 2 inches of snow.
+
+# What's in your way?
+I have a test on Tuesday that I haven't studied at all for so I really need to get started on that. I'll probably have to pull an all-nighter on Monday, but after Tuesday, I don't have much to worry about.
+
+# What will you do next week?
+Other than studying for my test, next week should be mostly empty. I might start reviewing material for SWE to get ready for the upcoming test in a couple weeks.
+
+# What's my experience of the class?
+While I think the class is useful, in that we get to work with groups and need to collaborate on a large project, the requirements seem somewhat excessive. The project is overspecified and states we need a certain number of models, with certain number of attributes, we have to make 15 issues on Trello, and so on. It really feels like putting the solution before the problem, and we only use most of the tools for the sake of fulfilling these requirements.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[ed](https://en.wikipedia.org/wiki/Ed_(text_editor)) is the original and official Unix text editor. If you think you're cool for using **vim**, you should know that *real* programmers use **ed**. You can only edit one line at a time, but if you ever want to feel like a programmer from the '70s, this is the way to go.
