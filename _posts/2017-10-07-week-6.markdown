@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 2 Oct - 8 Oct"
+date:   2017-10-07 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+This week was pretty uneventful. I went out for lunch a few times with friends, but other than that, it was just filled with the usual homework and projects. I took a look at the data we scraped for IDB and tried to manipulate it to fit the attributes we need for each model. I started studying a bit for the upcoming test, but still need to go over much of the readings.
+
+# What's in your way?
+Not much is in my way right now. I'm not too worried about my exams this week since I still have some time to study for them. If anything, I think I'll have a lot of free time.
+
+# What will you do next week?
+This week will mostly be filled with working on part 2 of IDB, and studying for my SWE and Numerical Analysis tests. I have a couple interviews I need to study for, but I can do that after Thursday. Now that most of my interviews are done, hopefully I can go on a day trip somewhere next weekend.
+
+# What's my experience of the class?
+I think we're wrapping up the lectures on Python and moving on to more interesting topics so I'm looking forward to that. I'm glad my IDB group works together fairly well and I'm enjoying the project so far.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[DevDocs](http://devdocs.io/) is an offline documentation browser. It lets your download documentation for lots of different languages and libraries, and presents them in a unified format. This lets your search for functions and classes across all the languages and libraries you have enabled. You can also save documentation locally so it works offline as well, which is useful for working on assignments on long flights.
