@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 9 Oct - 15 Oct"
+date:   2017-10-14 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+This week was really stressful as I had two exams on Thursday. The SWE exam wasn't so bad, but I forgot some details about how lambdas and generators bind variables in their parent scope. I was not completely prepared for my other test, however, and I'm not looking forward to getting that grade back. I did absolutely nothing on Friday to recover from the entire week of studying.
+
+# What's in your way?
+After those two tests, I don't have much to worry about. The biggest thing on my mind is IDB2, which seems to have a lot of moving parts, and it will be a challenge to make sure everything works together.
+
+# What will you do next week?
+I have a test coming up that I'm not too worried about. I have a couple interviews I need to prepare for, but I don't have much in the way of schoolwork for a while. Most of my time will probably be spent on IDB2, and getting all the different parts to work together.
+
+# What's my experience of the class?
+The class seems fine. The recent test wasn't too bad since most of the questions were reused from the quizzes. I forgot to make a cheat sheet this time, but it definitely would've been useful, so I'll make sure I do that next time. The class still seems to be focused on Python, which I'm not really a fan of. Hopefully, we'll move to a different topic soon.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[Postman](https://www.getpostman.com/) is a tool to make arbitrary HTTP requests. It's really useful for testing and poking around REST APIs. It should come in handy for when we implement the IDB API, and it would've been impossible to scrape our IDB data without messing with the APIs we're using with Postman first.
