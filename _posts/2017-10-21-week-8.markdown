@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 16 Oct - 22 Oct"
+date:   2017-10-21 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+This week was a lot of fun. I got to go to New York for an interview and spent the weekend exploring. I went to Central Park for the first time since last year so it was nice to stroll around for a few hours. On Monday, I had a whole day of interviews from 8am until 5pm, so I was exhausted the next day. I went home on Friday to spend some time with my family since this week is Diwali and I got to eat lots of home-cooked food and snacks.
+
+# What's in your way?
+I'm having some trouble getting all the data we need for IDB. We had to use some undocumented APIs, which took a while to find. I think I have the schema figured out, but the true test will be when we build the rest of the website.
+
+# What will you do next week?
+This week, I'll probably spend most of my time working on IDB. I also have to figure out which classes I'll be taking next semester since the course schedule was recently released. I might have another interview in New York, so I'll have to figure out how to schedule that.
+
+# What's my experience of the class?
+Now that we've moved onto SQL and relational algebra, the lectures are more interesting. I found it useful that we implemented the various operations and joins in Python. I think a lot of stuff is crammed into this section of IDB, and I think that pagination and sorting could've been moved to the next section.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[Wireshark](https://www.wireshark.org/) is a tool to collect packets over a network or bus such as USB. You can use this to diagnose problems with your WiFi config or just snoop around to see what other people on the same network are browsing. While it's a great tool, you can also use it to waste time at the airport by snooping around on their unsecured WiFi network.
