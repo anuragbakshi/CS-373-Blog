@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 23 Oct - 29 Oct"
+date:   2017-10-28 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+I finished the last of my interviews for the year so I'm glad I can relax now, at least for a bit. I got to spend a couple days in New York again, so that was fun. I was also rushing to finish IDB2 and managed to submit it just before the deadline. Outside of school, Stranger Things came out this weekend so my roommates and I invited some friends over to have a watch party.
+
+# What's in your way?
+Nothing right now. None of my next assignments have been released so I have absolutely nothing to work on this weekend. I do have a test coming up next week so I will need to study a bit for that.
+
+# What will you do next week?
+I'll study for my test and get started on IDB3 as soon as possible. Leaving it until the last minute for IDB2 definitely wasn't ideal so I'll try to get the next phase done early. I've also wanted to try baking for a while so I might try to make some banana bread this weekend.
+
+# What's my experience of the class?
+Class is fine. The material we're covering is new, but the lectures seem to move a bit slowly. Also, most of the things we had to learn for our project were not covered at all in class. As a result, the projects seems somewhat disconnected from the lectures.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[SQLite](https://www.sqlite.org/) is a fast and simple SQL database. All the data in the database is stored in a single file and can even be stored directly in memory for testing. It makes it very easy to test database logic without have to start a heavier SQL database server like MySQL. For IDB, I used it to test my schemas and relationships before copying them to a MySQL database in GCP Cloud SQL.
