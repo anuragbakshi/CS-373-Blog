@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 30 Oct - 5 Nov"
+date:   2017-11-04 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+My roommates and I accepted internships for the summer! Now that I can stop thinking about interviews and internships, I can finally relax and focus on my classes for the rest of the semester. To celebrate, we had a scary movie night where we watched the Conjuring with a few friends. This Saturday, we also went to Snow's BBQ for lunch. It's been rated as the #1 barbecue in Texas, and it's definitely my favorite out of all the ones I've tried so far.
+
+# What's in your way?
+My graduation plans have changed a bit since last year, so I'm trying to figure out my remaining semesters. I might have to Q-drop a class so I'll have to speak to my advisor next week.
+
+# What will you do next week?
+IDB is basically the only thing I have to work on. I don't have exams for a while so there's nothing major to study for in the near future. I'm also trying to learn OCaml so I'll spend a fair chunk of my time on that.
+
+# What's my experience of the class?
+I'm used to the flow of the class by now. One thing I don't like are the daily quizzes, especially since I had to miss a few when I was away for interviews. It seems unfair that a class whose goal is to make us ready for internships penalizes students who interview for them.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[MySQL Workbench](https://www.mysql.com/products/workbench/) is a tool to manage MySQL databases. It lets you execute SQL queries and see how they are executed, visualize schemas, and import/export data from a database. I've used it extensively for IDB since it provides a nice interface to interact with our data.
