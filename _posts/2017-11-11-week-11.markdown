@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 6 Nov - 12 Nov"
+date:   2017-11-11 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+My roommates and I went to Houston this weekend to see one of my roommates' new house. We got a chance to explore downtown Houston on Friday and are planning to go to Space Center Houston. We might also go to the beach, since we don't usually get such an opportunity in Austin.
+
+# What's in your way?
+Nothing is in my way right now. If I had to pick something, it would be finding a way to waste all my free time since if I'm not doing something, I'll be sitting at home bored.
+
+# What will you do next week?
+I haven't planned my next week out too much since I don't have any major assignments. I might go home to visit my parents again since I haven't gone in a while. I also want to plan out all the trips I want to take this summer, since I'll only have 10 or so weekends free. Other than that, I don't have much to do.
+
+# What's my experience of the class?
+Now that we've covered most of SQL, we're moving on to refactoring, which should be interesting. I think that it's easier to pick up a language like Python or SQL than to learn how to design software, which is what refactoring should help make clearer. I think the next section of the class will be more interesting.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[iTerm2](https://www.iterm2.com/index.html) is a terminal emulator for macOS, meant to be used as a replacement of the built-in Terminal app. iTerm2 has lots of extra features over Terminal, such as split panes, autocomplete, clipboard history. I highly recommend that anyone who still uses Terminal switch to iTerm2.
