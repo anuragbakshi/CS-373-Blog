@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Week of 13 Nov - 19 Nov"
+date:   2017-11-18 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# What did you do this past week?
+Two of my friends had birthdays this week so my friends and I planned surprise parties for them. Since I didn't have that much work this week, I was mostly occupied with getting supplies for the parties and making the birthday cakes. It was also nice to catch up with friends I hadn't seen in a while.
+
+# What's in your way?
+Just like last week, I don't have much to do. None of my classes have assigned too much work and I'm done with interviewing so I have a lot more free time than things to occupy it.
+
+# What will you do next week?
+Since next week is Thanksgiving break, I'll probably just go home and spend time with my parents. I might go hiking somewhere near my parents' house if I can convince any friends to go. Since my parents live on the outskirts of Austin, there are a lot of ranches and farms nearby so I might explore those.
+
+# What's my experience of the class?
+I think refactoring is the most interesting unit so far since we're learning patterns that can be applied to most languages and projects. I think having a good understanding of this will be very useful for working in industry.
+
+# What's my pick-of-the-week or tip-of-the-week?
+[VirtualBox](https://www.virtualbox.org/) is a flexible virtualization platform that lets you create virtual machines on your computer. For example, you can have a Mac and create an Ubuntu VM to work on assignments without having to go to the lab. You could also create a Windows VM to play games without having to install it natively and reboot. It requires more resources than dual-booting since both the host and guest OS have to be running, but it's much faster to start and stop since you can suspend the state of the VM without having to shutdown your computer.
