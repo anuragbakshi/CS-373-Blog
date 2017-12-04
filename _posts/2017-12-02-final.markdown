@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Week of 20 Nov - 3 Dec"
+date:   2017-12-02 00:00:00 -0500
+categories: swe-blog
+---
+![me]({{ site.url }}/CS-373-Blog/assets/headshot.jpg){:width="300px"}
+
+# Course Summary
+Overall, I felt like I learned a lot in this class doing the project from start to finish. While the lecture materials weren't too interesting, doing the project incorporated a lot of industry practices that I think will be helpful in the future. I enjoyed working with my group and finishing our project and I enjoyed learning technologies such as GCP, Apiary, Flask and source control. The quizzes were at first quite simple but it got a lot harder throughout the class and really had me thinking while taking them. The midterm was fine and I thought it tested thoroughly everything we covered. I think for the projects, if we had the choice of choosing AWS also that would be great as we ran into some technical issues with GCP. While it was nice to go over Python concepts in class, I think it would be more interesting if we covered different things and had outside readings to learn Python on our own. In addition, I enjoyed blogging every week as it gave me a creative outlet to help me reflect along with sharing my experiences with others. Furthermore, I enjoyed listening to guest speakers who share their real-life experiences. I felt like through that I was able to gauge the industry better and learn a breadth of things. The class definitely wasn't easy but it felt rewarding at the very end. Throughout the projects, the thing I enjoyed the most was visualizing data at the very end. I hadn't worked much with Javascript but I always wanted to do something with data visualization using D3.js. I think doing this part of the project taught me a lot of useful information that I can use myself in the future to do personal projects and when I start working full-time.
